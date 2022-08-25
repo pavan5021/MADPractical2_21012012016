@@ -1,7 +1,7 @@
 # MADPractical2_21012012016
 
 Create Activity to display “Hello World” in TextView in the center of Activity screen with yellow (android:background="#FFFF00") layout background of Activity. TextView properties should be Holo Blue color (android:textColor=@android:color/holo_blue_bright), 27sp font size (android:textSize="27sp") and make text style bold and italic (android:textStyle="bold|italic"). After creating Activity, demonstrate functions of Activity Life Cycle by using Log message, Toast message & Snackbar message. All methods of Activity life cycle should be printed in Logcat.
-![logcat](https://user-images.githubusercontent.com/110770530/186753319-11b32fef-9f68-40fc-9b8e-49f8a0ae80bf.png)
-![resume](https://user-images.githubusercontent.com/110770530/186753335-7b2ca45a-7332-415a-8606-12d142e9d11f.png)
-![Snackbar](https://user-images.githubusercontent.com/110770530/186753339-833ce927-3679-432a-9a01-3376d9cd7272.png)
-![stop](https://user-images.githubusercontent.com/110770530/186753342-005375e7-d6b4-493e-884d-7ff9642a6db1.png)
+![stop_copy](https://user-images.githubusercontent.com/110770530/186754641-2e99ad91-5f57-4dc0-976a-cd2e05dcf63b.png)
+![logcat](https://user-images.githubusercontent.com/110770530/186754665-38f4b450-1240-46a1-87c9-602cb3ae7790.png)
+![resume_copy](https://user-images.githubusercontent.com/110770530/186754669-25325491-f7b7-4e00-80ca-ba9c7c8a2f78.png)
+![Snackbar_copy](https://user-images.githubusercontent.com/110770530/186754673-9a9cb403-9317-4232-a0c0-b26c6be085e7.png)
